@@ -1,24 +1,24 @@
 {
-  "name": "@ant-design/tools",
-  "version": "10.0.1",
-  "description": "tools for ant design",
+  "name": "ppx-tools",
+  "version": "1.0.0",
+  "description": "tools for ant design ppx project",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/wangqinyong1994/ppx-tools",
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:wangqinyong1994/ppx-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "https://github.com/wangqinyong1994/ppx-tools/issues"
   },
   "license": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js",
-    "antd-tools-run": "./bin/antd-tools-run.js"
+    "ppx-tools": "./bin/antd-tools.js",
+    "ppx-tools-run": "./bin/antd-tools-run.js"
   },
   "scripts": {
     "pub": "git push origin && npm publish --access public",
